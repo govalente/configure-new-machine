@@ -1,4 +1,4 @@
-# macOS configuration guide
+# `macOS` configuration guide
 
 ## Install `homebrew`
 
