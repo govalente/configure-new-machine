@@ -6,6 +6,11 @@
 /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 ```
 
+## Install iTerm2
+
+```bash
+brew cask install iterm2
+```
 
 ## Install `docker` using `homebrew`
 
