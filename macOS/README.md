@@ -69,7 +69,6 @@ brew cask install pycharm-ce
 ```
 
 ## `Spectacle`
-## Install `Google Chrome`
 Manually install from Internet: [Spectacle installation link](https://www.spectacleapp.com/)
 
 ## `Spotify`
