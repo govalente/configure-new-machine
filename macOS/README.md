@@ -12,9 +12,11 @@
 brew cask install iterm2
 ```
 
+After installing `iTerm2`, follow the in
+
 ## Create sandboxed Applications directory
 ```bash
-cd 
+cd ~
 mkdir Applications
 ```
 
@@ -28,9 +30,7 @@ brew cask install brave-browser
 Manually install using the following tutorial: [Medium Link to install docker](https://medium.com/@yutafujii_59175/a-complete-one-by-one-guide-to-install-docker-on-your-mac-os-using-homebrew-e818eb4cfc3)
 
 ## `Dropbox`
-```text
-Comes with Office?
-```
+Manually install from Internet: [Dropbox installation link](https://www.dropbox.com/install)
 
 ## `Jolt of Caffeine`
 ```text
@@ -56,7 +56,7 @@ brew cask install karabiner-elements
 ```
 
 ## `Microsoft Office`
-Manually install from Internet
+Manually install from Internet: [Microsoft Office installation link](https://www.office.com/)
 
 ## `NordVPN`
 ```text
@@ -69,7 +69,8 @@ brew cask install pycharm-ce
 ```
 
 ## `Spectacle`
-Drag from this repository`s Applications directory to  sandboxed Applications directory.
+## Install `Google Chrome`
+Manually install from Internet: [Spectacle installation link](https://www.spectacleapp.com/)
 
 ## `Spotify`
 ```bash
