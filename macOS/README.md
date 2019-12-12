@@ -54,6 +54,8 @@ brew cask install intellij-idea
 ```bash
 brew cask install karabiner-elements
 ```
+### Configuration
+![alt text](https://raw.githubusercontent.com/gnvalente92/configure-new-machine/master/macOS/resources/karabinerconfig.png)
 
 ## `Microsoft Office`
 Manually install from Internet: [Microsoft Office installation link](https://www.office.com/)
