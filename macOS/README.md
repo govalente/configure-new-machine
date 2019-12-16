@@ -33,9 +33,7 @@ Manually install using the following tutorial: [Medium Link to install docker](h
 Manually install from Internet: [Dropbox installation link](https://www.dropbox.com/install)
 
 ## `Jolt of Caffeine`
-```text
 Mac App Store manual installation
-```
 
 ## Install `Franz`
 ```bash
