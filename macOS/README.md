@@ -76,6 +76,11 @@ brew cask install spotify
 
 ## `Vagrant`
 Install using `homebrew` by following: [`Vagrant installation procedure`](https://sourabhbajaj.com/mac-setup/Vagrant/README.html)
+```bash
+brew cask install virtualbox
+brew cask install vagrant
+brew cask install vagrant-manager
+```
 
 ## `Visual Studio Code`
 ```bash
