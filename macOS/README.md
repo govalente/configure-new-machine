@@ -41,7 +41,7 @@ brew cask install franz
 ```
 
 ## Install `Google Chrome`
-Manually install from Internet: [Google Chromne Installation](https://www.google.com/chrome/?brand=CHBD&gclid=Cj0KCQiAtrnuBRDXARIsABiN-7DwYfMptQpT89IC7YMyGO3KJjG9af1QhGZJfHlPn6n8TOdKQ7h9nkoaAlbPEALw_wcB&gclsrc=aw.ds)
+Manually install from Internet: [Google Chrome Installation](https://www.google.com/chrome/?brand=CHBD&gclid=Cj0KCQiAtrnuBRDXARIsABiN-7DwYfMptQpT89IC7YMyGO3KJjG9af1QhGZJfHlPn6n8TOdKQ7h9nkoaAlbPEALw_wcB&gclsrc=aw.ds)
 
 ## `Intellij Ultimate`
 ```bash
@@ -59,9 +59,7 @@ brew cask install karabiner-elements
 Manually install from Internet: [Microsoft Office installation link](https://www.office.com/)
 
 ## `NordVPN`
-```text
 Mac App Store manual installation
-```
 
 ## `PyCharm CE`
 ```bash
