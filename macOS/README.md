@@ -67,9 +67,7 @@ brew cask install pycharm-ce
 ```
 
 ## Install `python` the correct way
-```bash
-https://opensource.com/article/19/6/virtual-environments-python-macos
-```
+[`Python installation link`](https://opensource.com/article/19/6/virtual-environments-python-macos)
 
 ## `Spectacle`
 Manually install from Internet: [Spectacle installation link](https://www.spectacleapp.com/)
