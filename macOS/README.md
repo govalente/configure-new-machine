@@ -66,6 +66,11 @@ Mac App Store manual installation
 brew cask install pycharm-ce
 ```
 
+## Install `python` the correct way
+```bash
+https://opensource.com/article/19/6/virtual-environments-python-macos
+```
+
 ## `Spectacle`
 Manually install from Internet: [Spectacle installation link](https://www.spectacleapp.com/)
 
