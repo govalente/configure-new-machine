@@ -32,9 +32,6 @@ Manually install using the following tutorial: [Medium Link to install docker](h
 ## `Dropbox`
 Manually install from Internet: [Dropbox installation link](https://www.dropbox.com/install)
 
-## `Jolt of Caffeine`
-Mac App Store manual installation
-
 ## Install `Google Chrome`
 Manually install from Internet: [Google Chrome Installation](https://www.google.com/chrome/?brand=CHBD&gclid=Cj0KCQiAtrnuBRDXARIsABiN-7DwYfMptQpT89IC7YMyGO3KJjG9af1QhGZJfHlPn6n8TOdKQ7h9nkoaAlbPEALw_wcB&gclsrc=aw.ds)
 
@@ -42,6 +39,9 @@ Manually install from Internet: [Google Chrome Installation](https://www.google.
 ```bash
 brew cask install intellij-idea
 ```
+
+## `Jolt of Caffeine`
+Mac App Store manual installation
 
 ## `karabiner-elements`
 ```bash
