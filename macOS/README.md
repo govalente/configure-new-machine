@@ -35,11 +35,6 @@ Manually install from Internet: [Dropbox installation link](https://www.dropbox.
 ## `Jolt of Caffeine`
 Mac App Store manual installation
 
-## Install `Franz`
-```bash
-brew cask install franz
-```
-
 ## Install `Google Chrome`
 Manually install from Internet: [Google Chrome Installation](https://www.google.com/chrome/?brand=CHBD&gclid=Cj0KCQiAtrnuBRDXARIsABiN-7DwYfMptQpT89IC7YMyGO3KJjG9af1QhGZJfHlPn6n8TOdKQ7h9nkoaAlbPEALw_wcB&gclsrc=aw.ds)
 
@@ -68,6 +63,11 @@ brew cask install pycharm-ce
 
 ## Install `python` the correct way
 [`Python installation link`](https://opensource.com/article/19/6/virtual-environments-python-macos)
+
+## Instal `Rambox`
+```bash
+brew cask install rambox
+```
 
 ## `Spectacle`
 Manually install from Internet: [Spectacle installation link](https://www.spectacleapp.com/)
