@@ -1,6 +1,5 @@
 # `macOS` configuration guide
 
-
 ## `homebrew`
 
 ```bash
