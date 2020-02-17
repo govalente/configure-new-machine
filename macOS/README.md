@@ -69,6 +69,12 @@ brew cask install pycharm-ce
 brew cask install rambox
 ```
 
+## `Scala` (with `jdk`)
+```sh
+brew tap AdoptOpenJDK/openjdk
+brew cask install adoptopenjdk8
+```
+
 ## `Spectacle`
 Manually install from Internet: [Spectacle installation link](https://www.spectacleapp.com/)
 
