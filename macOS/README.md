@@ -69,10 +69,11 @@ brew cask install pycharm-ce
 brew cask install rambox
 ```
 
-## `Scala` (with `jdk`)
+## `Scala` (`sbt`)  (with `jdk`)
 ```sh
 brew tap AdoptOpenJDK/openjdk
 brew cask install adoptopenjdk8
+brew install sbt
 ```
 
 ## `Spectacle`
