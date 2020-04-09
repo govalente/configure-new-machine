@@ -1,12 +1,12 @@
-**Guia para tirar print screens em background no Mac**
+*Guide for background screenshots on Mac*
 
-1. Desligar sound effects em System Preferences -> Sound -> Uncheck Play user interface sound effects
-2. Instalar o tmux, e.g.
+1. Turn off sound effects in System Preferences -> Sound -> Uncheck Play user interface sound effects.
+2. Install `tmux`.
 ```
 brew install tmux
 ```
-3. Criar uma pasta para guardar os prints todos (vão ser muitos) e garantir que temos uns 5GB livres no pc para não haver stress de espaço, já estou a dar muita margem
-4. Criar o seguinte script:
+3. Create a directory for the screenshots and check if there's enough disk space for a lot of screenshots.
+4. Create the following script:
 ```
 #!/bin/bash
 
@@ -15,19 +15,19 @@ do
     screencapture -T 30 ~/Pictures/screenshots/raw_test/test_$(date +"%Y%m%d%H%M%S").jpg
 done
 ```
-. Lembrar de substituir o caminho por um que exista no teu computador
+. Replace with the desired path for the screenshots.
+. The time between screenshots can be adjusted with the -T flag. In the example, `-T 30` means there will be a screenshot every 30s
 
-5. Criar uma nova sessão no tmux:
+5. Create new `tmux` session:
 ```
 tmux new -s <session_name>
 ```
-6. Dentro da nova sessão, pôr o script a correr. Pode ser preciso torná-lo executável com
+6. Run the script inside the new session. It may be necessary to make the script exectuable with:
 ```
 chmod +x script.sh
 ```
-7. Para sair da sessão do tmux, Ctrl+b e depois d
-8. No final, para parar o script, matar a sessão do tmux com
+7. Exit the `tmux` session with Ctrl+b & d.
+8. When you want to stop the screenshot process kill the `tmux` session with:
 ```
 tmux kill-session -t <session_name>
 ```
-Podemos variar o tempo entre screenshots com a flag -T. No exemplo -T 30 significa que tira print de 30 em 30 segundos.
