@@ -16,7 +16,7 @@ do
 done
 ```
 * Replace with the desired path for the screenshots.
-* The time between screenshots is adjusted with the -T flag. In the example, `-T 30` means there will be a screenshot every 30s
+* The time between screenshots is adjusted with the -T flag. In the example, `-T 30` means there will be a screenshot every 30s.
 
 5. Create new `tmux` session:
 ```
