@@ -1,4 +1,4 @@
-*Guide for background screenshots on Mac*
+# Guide for background screenshots on Mac #
 
 1. Turn off sound effects in System Preferences -> Sound -> Uncheck Play user interface sound effects.
 2. Install `tmux`.
