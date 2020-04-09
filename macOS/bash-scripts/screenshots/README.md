@@ -15,8 +15,8 @@ do
     screencapture -T 30 ~/Pictures/screenshots/raw_test/test_$(date +"%Y%m%d%H%M%S").jpg
 done
 ```
-. Replace with the desired path for the screenshots.
-. The time between screenshots can be adjusted with the -T flag. In the example, `-T 30` means there will be a screenshot every 30s
+* Replace with the desired path for the screenshots.
+* The time between screenshots can be adjusted with the -T flag. In the example, `-T 30` means there will be a screenshot every 30s
 
 5. Create new `tmux` session:
 ```
