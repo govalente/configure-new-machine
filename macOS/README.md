@@ -96,3 +96,5 @@ brew cask install vagrant-manager
 ```bash
 brew cask install visual-studio-code
 ```
+## iMazing Hot (for temperature monitoring)
+
